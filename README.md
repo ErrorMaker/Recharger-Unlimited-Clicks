@@ -11,7 +11,8 @@ Extension built to give more clicks to players. How to use it:
 1. Paste the 3 dlls in zip in the dependencies folder of tanji.
 2. Install the exe in tanji modules.
 3. Open the extension
-4. Double click any use item
-5. Then click start or F4 for it to start.
+4. Click Activate
+5. Double click any use item
+6. Then click start or F4 for it to start OR stop it.
 
 If you need help using this extension please message me on discord Ahmed#8333
