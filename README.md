@@ -1,1 +1,10 @@
-4+ Recharger
+<p align="center"> 
+   <img src="https://user-images.githubusercontent.com/24996684/35466253-f228fa38-02b6-11e8-8ec6-7d3f57caf2e2.png">
+</p>
+<p align="center">
+   <a href="https://github.com/DevLooney"><img
+   <a href="https://discord.gg/Vyc2gFC"><img src="https://img.shields.io/discord/225010488445108224.svg?style=flat-square"/></a>
+</p>
+
+# 4+ Recharger
+Extension built to give more clicks to players. How to use it: First, thing you should do is paste the 3dlls in zip in the dependencies folder of tanji then install the exe in tanji modules. Second, open the extension then double click any use item, then click start or F4 for it to start. If you need help using this extension please message me on discord Ahmed#8333
