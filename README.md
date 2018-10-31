@@ -7,4 +7,11 @@
 </p>
 
 # 4+ Recharger
-Extension built to give more clicks to players. How to use it: First, thing you should do is paste the 3dlls in zip in the dependencies folder of tanji then install the exe in tanji modules. Second, open the extension then double click any use item, then click start or F4 for it to start. If you need help using this extension please message me on discord Ahmed#8333
+Extension built to give more clicks to players. How to use it:
+1. Paste the 3 dlls in zip in the dependencies folder of tanji.
+2. Install the exe in tanji modules.
+3. Open the extension
+4. Double click any use item
+5. Then click start or F4 for it to start.
+
+If you need help using this extension please message me on discord Ahmed#8333
